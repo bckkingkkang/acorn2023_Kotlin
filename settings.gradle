@@ -16,3 +16,4 @@ rootProject.name = "Hello2"
 include ':app'
 include ':HelloKotlin'
 include ':step07sqlite2'
+include ':sqlite'
